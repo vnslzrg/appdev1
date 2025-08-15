@@ -11,13 +11,14 @@
 
 ###### Student Record Keeping on blockchains is important, there’s a growing problem with fake diplomas and certificates where people can easily claim they graduated from a school when they really didn’t. Universities can store official student records and certificates directly since blockchain  is immutable, no one can alter or fake those certificates.
 
-  - **Reference**:  
-    >_Source: Tec, B. (2023, March 15). The future of blockchain technology in education. eLearning Industry. Retrieved from https://elearningindustry.com/the-future-of-blockchain-technology-in-education_
+   - **Reference**:   
+  >_Source: Tec, B. (2023, March 15). The future of blockchain technology in education. eLearning Industry. Retrieved from https://elearningindustry.com/the-future-of-blockchain-technology-in-education_
+  
 
 - **In IT**:  
   ###### In IT,  Walmart implements innovative blockchain solutions that help us get detailed insights into every single event and take informed actions. This enhanced visibility enables us to manage suppliers better, conduct more efficient quality checks, and drastically reduce time and costs at various levels of the supply chain.
 
- - **Reference**:    
+   - **Reference**:    
     >_Source: Archana, S.(2021, November 30). Blockchain in the food supply chain - What does the future look like? (n.d.) Retrieved from https://tech.walmart.com/content/walmart-global-tech/en_us/blog/post/blockchain-in-the-food-supply-chain.html_
 
 ## Examples
