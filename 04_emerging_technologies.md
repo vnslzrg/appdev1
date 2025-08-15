@@ -3,7 +3,7 @@
 
 ###### A blockchain is a secure technology that uses a distributed database instead of locating, storing, and maintaining data in a single location. Its decentralized database capability allows for addressing security concerns raised by numerous password confirmation tools available today. If a hardware failure occurs on a centralized database, it may cause all the data to be lost. This doesn’t happen to a distributed database, which makes it a very secure way to store sensitive information. Blockchains are resistant to data modification that once the data is recorded, it cannot be altered. 
 
-  - **Reference**:  
+  - **Reference**:   
   > _Source: Remme. (2017, October 20). Keep your information safe with Blockchain technology. Medium.  Retrieved from https://medium.com/remme/keep-your-information-safe-with-blockchain-technology-87ed1e7636eb_
 
 ## Usage
@@ -17,7 +17,7 @@
 - **In IT**:  
   ###### In IT,  Walmart implements innovative blockchain solutions that help us get detailed insights into every single event and take informed actions. This enhanced visibility enables us to manage suppliers better, conduct more efficient quality checks, and drastically reduce time and costs at various levels of the supply chain.
 
-  - **Reference**:  
+ - **Reference**:    
     >_Source: Archana, S.(2021, November 30). Blockchain in the food supply chain - What does the future look like? (n.d.) Retrieved from https://tech.walmart.com/content/walmart-global-tech/en_us/blog/post/blockchain-in-the-food-supply-chain.html_
 
 ## Examples
