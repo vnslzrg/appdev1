@@ -2,7 +2,7 @@
 
 ###### **Name:** Veneese Julia M. Lazaraga 
 
-###### **Course/Year:** BS Information Systems 3rd Year  
+###### **Course & Year:** BS Information Systems 3rd Year  
 
 ###### **Fun Fact:** I can see things better at night.  
 
