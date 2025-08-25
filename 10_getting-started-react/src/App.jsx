@@ -1,6 +1,7 @@
 function App() {
   return (
-<main style={{ fontFamily: "Fira Code, monospace", padding: "2rem", lineHeight: 1.6 }}>      <h1>About Me</h1>
+<main style={{ fontFamily: "Fira Code, monospace", padding: "2rem", lineHeight: 1.6 }}>      
+  <h1>About Me</h1>
       <p><strong>Name:</strong> Veneese Julia M. Lazaraga </p>
       <p><strong>Course & Year:</strong> BS Information Systems, 3rd Year</p>
       <p><strong>Fun fact:</strong> I can see things better  at night.</p>
