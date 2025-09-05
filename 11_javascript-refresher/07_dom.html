@@ -1,0 +1,55 @@
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BACKGROUND COLOR</title>
+    <style>
+        body {
+            font-family: 'Baloo 2', cursive;
+            text-align: center;
+            margin: 20px;
+        }
+        #colorDisplay {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        #timeoutMessage {
+            margin-top: 20px;
+            color: black;
+        }
+        
+        #changeColorBtn {
+        background-color: white;
+        border: none;
+        color: black;
+        border: 2px solid #ffc0cb;
+        padding: 10px 20px;
+        font-size: 18px;
+        border-radius: 12px;
+        cursor: pointer;
+        }
+    </style>
+</head> 
+
+<body>
+    <button id="changeColorBtn">Change Background Color</button>
+    <div id="colorDisplay"></div>
+    <p id="timeoutMessage"></p>
+
+    <script>
+        document.getElementById('changeColorBtn').addEventListener('click', function() {
+            const favoriteColor = prompt("What is your favorite color?");
+            if (favoriteColor) {
+                document.body.style.backgroundColor = favoriteColor;
+                document.getElementById('colorDisplay').innerText = `Your favorite color is: ${favoriteColor}`;
+            }
+        });
+
+        setTimeout(function() {
+            document.getElementById('timeoutMessage').innerText = "This message appears after 2 seconds";
+        }, 2000);
+    </script>   
+</body>
+</html>
+
