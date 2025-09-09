@@ -1,0 +1,1 @@
+Realiziation: I realize that its more easier to commit using macro commit where you can commit message in one go instedad of micro where you need to do it one by one just to add all commit message.
