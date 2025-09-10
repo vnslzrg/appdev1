@@ -1,0 +1,2 @@
+Realization: I realize that using rebase makes my commit history cleaner because it looks like I made changes after the latest commit in the main branch, even though I originally started it earlier. 
+I also notice that my commit came after "Add feature" since I made that first, but with rebase it placed on the top of the base commit. For me, this makes the history more organized and easier to understand.
