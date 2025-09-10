@@ -1,2 +1,4 @@
 Line 1
 Line 2
+
+Realization: I realized that if I use git reset --hard, the previous head I have which is Line 3 disapppear and it replace the Head by choosing Line 2.
