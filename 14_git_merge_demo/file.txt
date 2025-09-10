@@ -1,0 +1,4 @@
+Realization: I realize that using merge allows me to combine changes from different branches and keeps the 
+full history. Unlike rebase that it will organizes the commit into a single line, merge 
+shows exactly when two branches came together through a merge commit. And using this merge
+also shows that the work was done separately, then joined together. 
