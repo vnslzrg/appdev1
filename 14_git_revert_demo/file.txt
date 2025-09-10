@@ -1,2 +1,6 @@
 Line 1
 Line 2
+
+Realization: After using git revert, I noticed that the file returned to its previous state, 
+but the commit history still shows the original commit along with a new commit labeled revert.
+Meaning that the history is preserved and the changes are undone without any commits.
