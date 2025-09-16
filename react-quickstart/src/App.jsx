@@ -1,25 +1,30 @@
 import './App.css'
 
-const user = {
-  name: 'Veneese',
-  imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
-  imageSize: 90, 
+function AdminPanel() {
+  return <h1>Welcome, Admin!</h1>;
+}
+
+function LoginForm() {
+  return <h1>Please log in to continue.</h1>;
 }
 
 function App() {
-return (
-  <>
-    <h1>{user.name}</h1>
-    <img
-      className="avatar"
-      src={user.imageUrl}
-      alt={'Photo of ' + user.name}
-      style={{ 
-        width: user.imageSize,
-        height: user.imageSize 
-    }}
-    />
-  </>
-)
+const isLoggedIn = true; 
+
+let content;
+
+if (isLoggedIn){
+  content = <AdminPanel />;
 }
+else {
+  content = <LoginForm />;
+}
+
+return (
+  <div>
+    {content}
+  </div>
+);
+}
+
 export default App
