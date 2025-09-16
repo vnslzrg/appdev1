@@ -1,18 +1,8 @@
 import './App.css'
 
-function AboutPage() {
+function App() {
   return (
-    <>
-    <h1>About</h1>
-    <p>Hello there.<br /> How do you do?</p>
-    </>
+    <img className="avatar" src ="https://i.imgur.com/yXOvdOSs.jpg"/>
   );
-}
-
-function App()
-{
-  return (
-    <AboutPage></AboutPage>
-  )
 }
 export default App
