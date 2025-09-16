@@ -1,30 +1,18 @@
 import './App.css'
 
-function AdminPanel() {
-  return <h1>Welcome, Admin!</h1>;
+function MyButton() {
+  return (
+    <button>I'm a button</button>
+  );
 }
 
-function LoginForm() {
-  return <h1>Please log in to continue.</h1>;
-}
-
-function App() {
-  const isLoggedIn = true; 
-
-let content;
-
-  if (isLoggedIn){
-  content = <AdminPanel />;
-}
- else {
-  content = <LoginForm />;
-}
-
-return (
+function App()
+{
+  return (
     <div>
-      {content}
+      <h1>Welcome to my app</h1>
+      <MyButton></MyButton>
     </div>
   )
 }
-
 export default App
